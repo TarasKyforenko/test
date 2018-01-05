@@ -1,0 +1,94 @@
+
+.logo{
+	background-color:black;
+	height:320px;
+	padding-top:170px;
+	padding-left:558px;
+	margin-top:-10px;
+	margin-left:-10px;
+	margin-right:-10px;
+	outline:1px solid red;
+}
+
+.menu{
+	font-size:120%;
+	font-family:impact;
+	outline:1px solid red;
+	width:400px;
+	margin-top:-450px;
+	margin-left:60px;
+	word-spacing:10px;
+}
+
+a{
+	text-decoration:none;
+}
+
+.menu2{
+	font-size:150%;
+	font-family:impact;
+	outline:1px solid red;
+	width:600px;
+	margin-top:340px;
+	margin-left:540px;
+	word-spacing:22px;
+}
+
+a:hover{
+	background:white;
+	color:black;
+}
+
+.img1{
+	margin-left:150px;
+	margin-top:100px;
+	padding-right:20px;
+	width:280px;
+	height:530px;
+	outline:1px solid red;
+}
+
+.img2{
+	margin-top:-530px;
+	margin-left:550px;
+	width:300px;
+	height:490px;
+	outline:1px solid red;
+}
+
+.img3{
+	margin-top:-490px;
+	margin-left:950px;
+	width:300px;
+	height:420px;
+	outline:1px solid red;
+}
+
+.img_main{
+	padding-left:45px;
+	margin-top:150px;
+}
+
+.img4{
+	margin-top:135px;
+	margin-left:194px;
+	width:300px;
+	height:360px;
+	outline:1px solid red;
+}
+
+.img5{
+	margin-top:-400px;
+	margin-left:595px;
+	width:300px;
+	height:385px;
+	outline:1px solid red;
+}
+
+.img6{
+	margin-top:-455px;
+	margin-left:995px;
+	width:300px;
+	height:520px;
+	outline:1px solid red;
+}
