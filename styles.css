@@ -1,23 +1,30 @@
 
+.main_logo {
+	width:95%;
+	margin-left:37px;
+}
+
 .logo{
 	background-color:black;
 	height:320px;
 	padding-top:170px;
-	padding-left:558px;
-	margin-top:-10px;
+	padding-left:545px;
+	margin-top:14px;
 	margin-left:-10px;
 	margin-right:-10px;
-	outline:1px solid red;
 }
 
 .menu{
-	font-size:120%;
+	font-size:130%;
 	font-family:impact;
-	outline:1px solid red;
 	width:400px;
-	margin-top:-450px;
+	margin-top:-440px;
 	margin-left:60px;
 	word-spacing:10px;
+}
+
+.menu :hover {
+	transition:0.3s linear;
 }
 
 a{
@@ -25,22 +32,27 @@ a{
 }
 
 .menu2{
-	font-size:150%;
+	font-size:180%;
 	font-family:impact;
-	outline:1px solid red;
 	width:600px;
-	margin-top:340px;
-	margin-left:540px;
+	margin-top:330px;
+	margin-left:460px;
 	word-spacing:22px;
 }
 
-a:hover{
-	background:white;
+.menu2 a:hover{
+	background:darkgray;
 	color:black;
+	transition: 0.3s linear;
+}
+
+.menu a:hover {
+	color:darkgray;
 }
 
 .img-main {
-	padding: 80px;
+	padding: 100px;
+	height:970px;
 }
 
 .row {
@@ -48,4 +60,38 @@ a:hover{
 	width: 33%;
 	vertical-align: top;
 	text-align:  center;
+	padding-top: 50px;
+	
 }
+
+.row2 {
+	border:7px solid black;
+}
+
+.row3 {
+	margin-top:30px;
+	border:7px solid black;
+}
+
+a:hover img {
+	 border: 7px solid dimgray;
+}
+
+.line {
+	margin-top:50px;
+}
+
+.footer {
+	font-family:Сomic Sans MS;
+	text-align:center;
+	font-size:130%;
+	vertical-align:center;
+	padding-top:30px;
+	height:60px;
+	color:black;
+}
+
+span {
+	font-family:impact;
+}
+
